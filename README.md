@@ -26,3 +26,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhatiatanish225&show_icons=true&locale=en" alt="bhatiatanish225" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhatiatanish225&" alt="bhatiatanish225" /></p>
+[![An image of @bhatiatanish225's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bhatiatanish225)](https://holopin.io/@bhatiatanish225)
+
