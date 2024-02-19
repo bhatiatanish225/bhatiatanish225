@@ -5,7 +5,7 @@
              src="https://storage.googleapis.com/graphicriver-149805.appspot.com/sreda/AnimatedHacking/Test-8.gif">
 
 # 💫 About Me:
-🌱 I’m currently learning Machine Learning, Web Dev , Blockchain.<br>💬 Ask me about ML , Python , Flutter<br>📫 How to reach me tbhatia0225@gmail.com
+🌱 I’m currently learning **Machine Learning, Web Dev , Blockchain***.<br>💬 Ask me about **ML , Python , Flutter**<br>📫 How to reach me tbhatia0225@gmail.com
 
 
 ## 🌐 Socials:
