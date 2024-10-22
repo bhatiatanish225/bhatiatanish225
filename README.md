@@ -16,6 +16,8 @@
 <p align="center">
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
 
+[![An image of @bhatiatanish225's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bhatiatanish225)](https://holopin.io/@bhatiatanish225)
+
 <!--🤔INTERESTTITLE-->
 <p align="center">
 <img src="https://i.imgur.com/ozEwbHs.gif">
